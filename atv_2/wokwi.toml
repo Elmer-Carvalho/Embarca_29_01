@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/atv_2.uf2'
+elf = 'build/atv_2.elf'
