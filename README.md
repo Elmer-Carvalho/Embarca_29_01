@@ -1,4 +1,4 @@
-#  Mudança de estado dos LEDS através de Push-Button.
+#  Mudança de estado dos LEDS através de temporização.
 
 Este projeto implementa duas atividades envolvendo o controle temporizado de LEDS por meio do **Raspberry Pi Pico W**. O código é desenvolvido em **C** para sistemas embarcados e foi implementado na placa voltada a aprendizagem BitDogLab.
 
